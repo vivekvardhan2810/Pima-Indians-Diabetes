@@ -10,3 +10,5 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 **Content**:
 
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
+The stacked accuracy obtained from ML algorithms for the Pima Indian Diabetes dataset is 75.03 % using the train-test split protocol, while the accuracy obtained from the CV protocol is 77.10 % on the stacked model. 
